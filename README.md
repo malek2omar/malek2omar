@@ -1,5 +1,5 @@
 
-# Initial security approaches for AWS Cloud Environment 
+# Initial Security Approaches for AWS Cloud Environment 
 ## Table of Content
 
 **1.0 Introduction**
@@ -49,7 +49,7 @@
 
 
 
-# Initial security approaches for AWS Cloud Environment 
+# Initial Aecurity Approaches for AWS Cloud Environment 
 ## 1.0	 Introduction
 Cloud Security is a shared management responsibility between you and the cloud provider.
 ### 1.1	Your responsibilities  
@@ -256,7 +256,7 @@ Plan and ensure that the applications that you provide are following at least th
 Being in Cloud does not always mean being compliant, every cloud provider has a list of AOC (attesting of Compliance) and it can be found on their websites such as “AWS The PCI DSS Attestation of Compliance (AOC)”. You will need to know what are your duties and what the cloud provider's duties are. 
 
 
-## 5.0	Extra Red Team approach 
+## 5.0	Extra: Red Team approach 
 After your applications and services are ready to be alive, conduct red team operations and penetration testing, black-box testing for each. You will detect extra issues that you should fix and consider before publishing in the market. Be ready for any incidences that might happen. 
 
 Some risks must remain and be accepted in any business and this is normal. There is no absolute fix for all the vulnerabilities and no application or service can achieve zero vulnerabilities.
