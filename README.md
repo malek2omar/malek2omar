@@ -49,7 +49,7 @@
 
 
 
-# Initial Aecurity Approaches for AWS Cloud Environment 
+# Initial Security Approaches for AWS Cloud Environment 
 ## 1.0	 Introduction
 Cloud Security is a shared management responsibility between you and the cloud provider.
 ### 1.1	Your responsibilities  
