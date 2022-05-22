@@ -256,7 +256,7 @@ IAM role to create a backup , or use the default role (it will follow the backup
 ## 4.0	Compliances Planning
 
 Security is important. Also, compliances are Important to avoid risk to the business, money loss, and government fines by following the regulation, laws and privacy standards of the country. 
-Plan and ensure that the applications that you provide are following at least the compulsory standards like PCI DSS, HIPPAA, SOX, ED GDPR, etc.   
+Plan and ensure that the applications that you provide are following at least the compulsory standards like PCI DSS, HIPPAA, SOX, EU GDPR, etc.   
 Being in Cloud does not always mean being compliant, every cloud provider has a list of AOC (attesting of Compliance) and it can be found on their websites such as “AWS The PCI DSS Attestation of Compliance (AOC)”. You will need to know what are your duties and what the cloud provider's duties are. 
 
 
