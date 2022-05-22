@@ -130,8 +130,11 @@ It is one of the greatest vulnerabilities you can have in you container environm
 -	Configuration monitoring.
 -	Reduce Cyber Risk.
 -	Remediate problems to restore security controls to your established security configuration.
+-
 ![](images/03OpenScap.jpg)
+
 ![](images/03OpenScap2.jpg)
+
 ![](images/03OpenScap3.jpg)
 
 
@@ -151,6 +154,7 @@ Because nowadays we are writing 20% of the code only while the rest of the code 
 
 #### 3.1.4.3 Static Analysis Security testing (SAST) Sonarqube: 
 To investigate your code in a build stage for SQL injections, XSS, insecure libraries etc. Sonarqube is easy to use and supports Multi-language and detects more tricky issues comparing to PHPStan.
+
 ![](images/04SAST.jpg)
 
 #### 3.1.4.4 Dynamic Analysis Security Testing (DAST) OWASP ZAP:
